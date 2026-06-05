@@ -98,7 +98,7 @@ header{
 
 .logo img{
 
-    height:70px;
+    height:120px;
     width:auto;
 }
 
@@ -184,7 +184,7 @@ header{
 
 .hero-logo{
 
-    width:180px;
+    width:3000px;
 
     margin:auto auto 2rem;
 }
@@ -717,7 +717,7 @@ footer{
 
 footer img{
 
-    width:120px;
+    width:200px;
 
     margin:0 auto 20px;
 }
